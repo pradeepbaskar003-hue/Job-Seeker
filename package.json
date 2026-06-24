@@ -1,6 +1,6 @@
 {
   "name": "talent-sphere-system",
-  "private": false,
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "svelte-kit dev",
